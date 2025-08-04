@@ -16,7 +16,7 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   4) Communications Security: Designed and implemented a Robust Security Network (RSN) with IEEE 802.11i for wireless security. Analysed common network attacks and performed security hardening on routers, switches, and firewalls, following vendor best practices.
   5) System Security: In alignment with CIS standards, led secure hardening initiatives for Linux, AIX, Windows, Apple Server Systems, Virtualization, Cloud Computing, and NAS/SAN Storage to ensure comprehensive security across diverse platforms.
 
-- 📫 IT Infrastructure, Web Application Architecture, and IT Operations
+- 📫 IT Infrastructure and Web Application Architecture
   1) Server: Experienced in maintaining and hardening Windows, Linux, AIX, and macOS servers
   2) Active Director: Skilled in designing and troubleshooting complex AD environments (multi-domain/site), Group Policy, RBAC, domain trusts, and IAM integration.
   3) Cloud: Experienced in deploying and troubleshooting private clouds using OpenStack. Hands-on with AWS for instance management, hardening, and security control implementation.
