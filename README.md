@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently seeking jobs related to Cyber Security/Information Security/IT Risk in New Zealand. GitHub readme extends my resume by showcasing my InfoSec GRC experience, Cyber Security background, Other IT skills, as well as my hobbies and personality.
+I’m currently seeking jobs related to Cyber Security/Information Security/IT Risk in New Zealand. GitHub readme extends my resume by showcasing my InfoSec GRC experience, Cyber Security background, IT Governance experience, Other IT skills, as well as my hobbies and personality.
 
 - 👯 InfoSec GRC--Designed and implemented security systems from the ground up, aligning with ISO 27001 requirements and objectives while integrating industry best practices to achieve its security goals, including:
   1) Business Continuity & Disaster Recovery (BCP): Ensured resilience by integrating NIST SP 800-34 Rev.1, ISO/IEC 27031, ISO/TS 22317, and CISA contingency planning guidelines.
@@ -16,6 +16,12 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   4) Communications Security: Designed and implemented a Robust Security Network (RSN) with IEEE 802.11i for wireless security. Analysed common network attacks and performed security hardening on routers, switches, and firewalls, following vendor best practices.
   5) System Security: In alignment with CIS standards, led secure hardening initiatives for Linux, AIX, Windows, Apple Server Systems, Virtualization, Cloud Computing, and NAS/SAN Storage to ensure comprehensive security across diverse platforms.
 
+- 💬 IT Governance
+  1)	Assisted the Chief Information Officer (CIO) in planning activities, including the annual work plan of the Information Management Center, performance evaluations, and the development of IT governance documentation.
+  2)	Acted as PMO role in designing and building IT project management systems aligned with PMP standards. Managed projects through all six stages: preparation, initiation, planning, implementation, go-live preparation and closure;
+  3)	Acted as PMO role in designing and monitoring key project deliverables for each project stages including during the first stage (Project Preparation), focused on the Project Proposal and Business Case; in the second stage (Project Initiation), handled the Project Charter, Statement of Work (SOW), Contractor Management, Technical/Requirement Specification Document, Supplier Tendering, and Project Kickoff Meeting; the third stage (Project Planning) included the Business Blueprint, Work Breakdown Structure (WBS), Requirement and Prototype Confirmation, Architecture Validation, and Detailed Design and Testing Solution Analysis; the fourth stage (Project Implementation) involved the setup of development and testing environments, system development, unit testing, integration testing, and system testing; the fifth stage (Go-Live Preparation) covered User Acceptance Testing (UAT), system cutover plan, knowledge transfer, handover to the operations team, and operations readiness; and the final stage (Project Closure) included the official system go-live, final handover, project retrospective, and resource release.
+  4)	Assisted in project permission management, risk assessment, and progress monitoring using the ZenTao tool, ensuring alignment with organizational objectives. 
+
 - 📫 IT Infrastructure and Web Application Architecture
   1) Server: Experienced in maintaining and hardening Windows, Linux, AIX, and macOS servers
   2) Active Director: Skilled in designing and troubleshooting complex AD environments (multi-domain/site), Group Policy, RBAC, domain trusts, and IAM integration.
@@ -28,7 +34,7 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   9) Monitoring: Used Zabbix for infrastructure monitoring (e.g., CPU, network, disk)
   10) Configuration Management: Used Puppet for automated server deployment, configuration, and drift correction.
       
-- 😄 Hobbies&Personality: I'm a good dancer! I'm a social person who enjoys meeting new friends. I love animals and embracing nature. I'm also interested in Mario's culture and hope to have the opportunity to contribute to the Mario community.
+- 😄 Hobbies&Personality: I'm a good dancer! I'm a social person who enjoys meeting new friends. I love animals and embracing nature. I'm also interested in Maori's culture and hope to have the opportunity to contribute to the Mario community.
 
 <!--
 **Michael-CyberSecurity/Michael-CyberSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
