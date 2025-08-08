@@ -15,7 +15,8 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   3) Cryptography: Based on CISSP standards and Cryptography and Network Security: Principles and Practice (Pearson), strengthened the cryptosystem by optimizing algorithms, ensuring key secrecy, selecting appropriate key lengths, and using initialization vectors to achieve ideal confusion and diffusion. Analysed cipher suites and selected suitable options for enterprise applications.
   4) Communications Security: Designed and implemented a Robust Security Network (RSN) with IEEE 802.11i for wireless security. Analysed common network attacks and performed security hardening on routers, switches, and firewalls, following vendor best practices.
   5) System Security: In alignment with CIS standards, led secure hardening initiatives for Linux, AIX, Windows, Apple Server Systems, Virtualization, Cloud Computing, and NAS/SAN Storage to ensure comprehensive security across diverse platforms.
-
+  6) AAA: Authentication, Authorization, and Accounting — using RADIUS for initial authentication, integrated with EAP methods such as EAP-TLS/PEAP, PKI for certificate-based access, Kerberos for Single Sign-On (SSO), and LDAP for centralized identity management.
+     
 - 💬 IT Governance
   1)	Assisted the Chief Information Officer (CIO) in planning activities, including the annual work plan of the Information Management Center, performance evaluations, and the development of IT governance documentation.
   2)	Acted as PMO role in designing and building IT project management systems aligned with PMP standards. Managed projects through all six stages: preparation, initiation, planning, implementation, go-live preparation and closure;
@@ -25,14 +26,15 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
 - 📫 IT Infrastructure and Web Application Architecture
   1) Server: Experienced in maintaining and hardening Windows, Linux, AIX, and macOS servers
   2) Active Director: Skilled in designing and troubleshooting complex AD environments (multi-domain/site), Group Policy, RBAC, domain trusts, and IAM integration.
-  3) Cloud: Experienced in deploying and troubleshooting private clouds using OpenStack. Hands-on with AWS for instance management, hardening, and security control implementation.
-  4) Docker: Familiar with Docker networking and commands; experienced in Dockerfile creation and container deployment.
-  5) Virtualization: Proficient in Hyper-V clustering; experienced with KVM and VMware vSphere maintenance.
-  6) Storage: Experienced with EMC and IBM storage arrays, as well as the distributed storage system MogileFS.
-  7) Database: Basic DBA skills—MySQL backup, replication, transaction handling, caching (Memcached/Redis), and HA (MHA, Redis Sentinel).
-  8) Web Infrastructure: Optimized LNMP stacks for performance, availability, and cost-efficiency using HAProxy, Varnish, Nginx, Keepalived, MHA, Redis, and MogileFS.
-  9) Monitoring: Used Zabbix for infrastructure monitoring (e.g., CPU, network, disk)
-  10) Configuration Management: Used Puppet for automated server deployment, configuration, and drift correction.
+  3) AAA: Authentication, Authorization, Accounting, using PKI, Kerberse (SSO), LDAP protocols
+  4) Cloud: Experienced in deploying and troubleshooting private clouds using OpenStack. Hands-on with AWS for instance management, hardening, and security control implementation.
+  5) Docker: Familiar with Docker networking and commands; experienced in Dockerfile creation and container deployment.
+  6) Virtualization: Proficient in Hyper-V clustering; experienced with KVM and VMware vSphere maintenance.
+  7) Storage: Experienced with EMC and IBM San storage arrays, as well as the distributed storage system MogileFS.
+  8) Database: Basic DBA skills—MySQL backup, replication, transaction handling, caching (Memcached/Redis), and HA (MHA, Redis Sentinel).
+  9) Web Infrastructure: Optimized LNMP stacks for performance, availability, and cost-efficiency using HAProxy, Varnish, Nginx, Keepalived, MHA, Redis, and MogileFS.
+  10) Monitoring: Used Zabbix for infrastructure monitoring (e.g., CPU, network, disk)
+  11) Automated deployment and configuration management: Used Puppet for automated server deployment, configuration, and drift correction.
       
 - 😄 Hobbies&Personality: I'm a good dancer! I'm a social person who enjoys meeting new friends. I love animals and embracing nature. I'm also interested in Maori's culture and hope to have the opportunity to contribute to the Mario community.
 
