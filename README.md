@@ -26,15 +26,14 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
 - 📫 IT Infrastructure and Web Application Architecture
   1) Server: Experienced in maintaining and hardening Windows, Linux, AIX, and macOS servers
   2) Active Director: Skilled in designing and troubleshooting complex AD environments (multi-domain/site), Group Policy, RBAC, domain trusts, and IAM integration.
-  3) AAA: Authentication, Authorization, Accounting, using PKI, Kerberse (SSO), LDAP protocols
-  4) Cloud: Experienced in deploying and troubleshooting private clouds using OpenStack. Hands-on with AWS for instance management, hardening, and security control implementation.
-  5) Docker: Familiar with Docker networking and commands; experienced in Dockerfile creation and container deployment.
-  6) Virtualization: Proficient in Hyper-V clustering; experienced with KVM and VMware vSphere maintenance.
-  7) Storage: Experienced with EMC and IBM San storage arrays, as well as the distributed storage system MogileFS.
-  8) Database: Basic DBA skills—MySQL backup, replication, transaction handling, caching (Memcached/Redis), and HA (MHA, Redis Sentinel).
-  9) Web Infrastructure: Optimized LNMP stacks for performance, availability, and cost-efficiency using HAProxy, Varnish, Nginx, Keepalived, MHA, Redis, and MogileFS.
-  10) Monitoring: Used Zabbix for infrastructure monitoring (e.g., CPU, network, disk)
-  11) Automated deployment and configuration management: Used Puppet for automated server deployment, configuration, and drift correction.
+  3) Cloud: Experienced in deploying and troubleshooting private clouds using OpenStack. Hands-on with AWS for instance management, hardening, and security control implementation.
+  4) Docker: Familiar with Docker networking and commands; experienced in Dockerfile creation and container deployment.
+  5) Virtualization: Proficient in Hyper-V clustering; experienced with KVM and VMware vSphere maintenance.
+  6) Storage: Experienced with EMC and IBM San storage arrays, as well as the distributed storage system MogileFS.
+  7) Database: Basic DBA skills—MySQL backup, replication, transaction handling, caching (Memcached/Redis), and HA (MHA, Redis Sentinel).
+  8) Web Infrastructure: Optimized LNMP stacks for performance, availability, and cost-efficiency using HAProxy, Varnish, Nginx, Keepalived, MHA, Redis, and MogileFS.
+  9) Monitoring: Used Zabbix for infrastructure monitoring (e.g., CPU, network, disk)
+  10) Automated deployment and configuration management: Used Puppet for automated server deployment, configuration, and drift correction.
       
 - 😄 Hobbies&Personality: I'm a good dancer! I'm a social person who enjoys meeting new friends. I love animals and embracing nature. I'm also interested in Maori's culture and hope to have the opportunity to contribute to the Mario community.
 
