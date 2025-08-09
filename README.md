@@ -26,7 +26,7 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
 - 📫 IT Infrastructure and Web Application Architecture
   1) Server: Experienced in maintaining and hardening Windows, Linux, AIX, and macOS servers
   2) Active Director: Skilled in designing and troubleshooting complex AD environments (multi-domain/site), Group Policy, RBAC, domain trusts, and IAM integration.
-  3) Cloud: Experienced in deploying and troubleshooting private clouds using OpenStack. Hands-on with publick clouds AWS and AliCloud for instance management, hardening, and security control implementation.
+  3) Cloud: Experienced in deploying and troubleshooting private clouds using OpenStack. Hands-on with public Clouds such as AWS and Alibaba Cloud, including instance management, hardening, and security control implementation.
   4) Docker: Familiar with Docker networking and commands; experienced in Dockerfile creation and container deployment.
   5) Virtualization: Proficient in Hyper-V clustering; experienced with KVM and VMware vSphere maintenance.
   6) Storage: Experienced with EMC and IBM San storage arrays, as well as the distributed storage system MogileFS.
