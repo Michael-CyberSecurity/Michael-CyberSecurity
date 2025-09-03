@@ -4,7 +4,7 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
 
 - 👯 InfoSec GRC--Designed and implemented security systems from the ground up, aligning with ISO 27001 requirements and objectives while integrating industry best practices to achieve its security goals, including:
   1) Business Continuity & Disaster Recovery (BCP): Ensured resilience by integrating NIST SP 800-34 Rev.1, ISO/IEC 27031, and ISO/TS 22317 contingency planning guidelines.
-  2) Risk Management Framework: Applied NIST SP 800-37 Rev.2, NIST CSF 2.0, ISCSI IT Asset Valuation, Risk Assessment & Control Model, and CVSS to enhance risk assessment and mitigation strategies.
+  2) Risk Management Framework: Applied NIST SP 800-30, NIST CSF 2.0, ISCSI IT Asset Valuation, Risk Assessment & Control Model, and CVSS to enhance risk assessment and mitigation strategies.
   3) Incident Management: Strengthened security incident response by aligning NIST SP 800-61 Rev.3, and NIST CSF 2.0 recommendations.
   4) Secure System Development & Acquisition: Enforced secure development including security coding, secure development environment, security of version control, security testing and procurement processes by integrating OWASP, and ISO 27002 guidelines.
   5) Additionally, implemented ISO 27002 to support security objectives in key areas, including: Organization of Information Security, Asset Management, Supplier Relationships, Human Resource Security, Operations Security, and Access Control.
