@@ -11,10 +11,10 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
 
 - 🌱 Designed and Built Business-Driven Cyber Security Architecture
 - Referenced SABSA and TOGAF enterprise architecture frameworks to design and build five security architecture layers from different perspectives:
-  1) The Business's  view -- Contextual Security Architecture 
+  1) The Business's  view --  Contextual Security Architecture 
   2) The Architect's view -- Conceptual Security Architecture
   3) The Designer's  view -- Logical Security Architecture (high-level)
-  4) The builder's   view -- Physical & Component Security Architecture (lower-level)
+  4) The builder's   view --  Physical & Component Security Architecture (lower-level)
   5) The FacilityManager's view -- Operational Security Architecture
 - Established strong connections between the five layers to help business owners clearly understand enterprise risks and align security strategy with business decisions.
 - Physical & Component Security Architecture (lower-level) and Operation Security Architecture – implemented measures include:
