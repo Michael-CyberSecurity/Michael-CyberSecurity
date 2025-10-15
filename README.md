@@ -34,10 +34,10 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   5) Provided analytical feedback to vendors (e.g., Palo Alto) to improve security product detection accuracy and contribute to the broader cybersecurity community.
 
 - 🔭 Penetration Testing
-  1）Follow PTES and OWASP frameworks to conduct web application and network Penetration Testing.
+  1) Follow PTES and OWASP frameworks to conduct web application and network Penetration Testing.
   2) Perform information gathering, threat modelling, vulnerability identification, exploitation, and post-exploitation (privilege escalation, process migration, security products and services evasion, persistence, lateral movement).
   3) Wireless security — assess WPA2, WPA and WEP deployments and detect rogue/fake access points.
-  4）Network segmentation & exposure testing — evaluate segmentation controls and identify enterprise sensitive-data exposure to the public Internet.
+  4) Network segmentation & exposure testing — evaluate segmentation controls and identify enterprise sensitive-data exposure to the public Internet.
   5) Conduct phishing simulations with malware attachment testing to evaluate user awareness
       
 - 👯 IT Governance
