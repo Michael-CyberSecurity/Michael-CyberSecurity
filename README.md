@@ -10,12 +10,12 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   5) Additionally, implemented ISO 27002 to support security objectives in key areas, including: Organization of Information Security, Asset Management, Supplier Relationships, Human Resource Security, Operations Security, and Access Control.
 
 - 🌱 Designed and Built Business-Driven Cyber Security Architecture
-1) Referenced SABSA and TOGAF enterprise architecture frameworks to design and build five security architecture layers from different perspectives:
-     The Business's  view -- Contextual Security Architecture 
-     The Architect's view -- Conceptual Security Architecture
-     The Designer's  view -- Logical Security Architecture (high-level)
-     The builder's   view -- Physical & Component Security Architecture (lower-level)
-     The FacilityManager's view -- Operational Security Architecture
+Referenced SABSA and TOGAF enterprise architecture frameworks to design and build five security architecture layers from different perspectives:
+  1) The Business's  view -- Contextual Security Architecture 
+  2) The Architect's view -- Conceptual Security Architecture
+  3) The Designer's  view -- Logical Security Architecture (high-level)
+  4) The builder's   view -- Physical & Component Security Architecture (lower-level)
+  5) The FacilityManager's view -- Operational Security Architecture
 2) Established strong connections between the five layers to help business owners clearly understand enterprise risks and align security strategy with business decisions.
 3) Physical & Component Security Architecture (lower-level) and Operation Security Architecture – implemented measures include:
   1) Data Security: Implemented the 5A Methodology and developed three key security architectures: Product Security Architecture, Security Technology Architecture, and Audit Architecture. Applied NIST Data Security Framework and PCI DSS standards for comprehensive data protection.
