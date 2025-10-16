@@ -30,8 +30,9 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   1) Designed and implemented an enterprise SOC architecture integrating SIEM (Splunk), Logstash, and Salesforce (later migrated to ServiceNow) to centralize incident tracking and workflow automation.
   2) Ingested and normalized security logs from multiple data sources including Palo Alto firewalls, McAfee endpoint security, Windows Event Logs, and WatchGuard Email Security (spam, phishing, and malware attachment).
   3) Developed and maintained use cases to generate automated security alerts and improve threat detection.
-  4) Performed incident analysis, and threat validation, continuously fine-tuning detection rules to minimize false positives and false negatives.
-  5) Provided analytical feedback to vendors (e.g., Palo Alto) to improve security product detection accuracy and contribute to the broader cybersecurity community.
+  4) Conducted static and dynamic malware analysis in sandbox environments to identify malicious behaviors and enhance detection rule accuracy.
+  5) Performed incident analysis, and threat validation, continuously fine-tuning detection rules to minimize false positives and false negatives.
+  6) Provided analytical feedback to vendors (e.g., Palo Alto) to improve security product detection accuracy and contribute to the broader cybersecurity community.
 
 - 🔭 Penetration Testing
   1) Follow PTES and OWASP frameworks to conduct web application and network Penetration Testing.
