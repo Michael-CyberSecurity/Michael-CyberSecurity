@@ -9,7 +9,7 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   4) Secure System Development & Acquisition: Enforced secure development including security coding, secure development environment, security of version control, security testing and procurement processes by integrating OWASP, and ISO 27002 guidelines.
   5) Additionally, implemented ISO 27002 to support security objectives in key areas, including: Organization of Information Security, Asset Management, Supplier Relationships, Human Resource Security, Operations Security, and Access Control.
 
-- 🌱 Designed and Built Business-Driven Cyber Security Architecture (see the three key areas below)
+- 🌱 Designed and Built Business-Driven Cyber Security Architecture (see the three key points below)
 - 1- Referenced SABSA and TOGAF enterprise architecture frameworks to design and build five security architecture layers from different perspectives:
   1) The Business's  view --  Contextual Security Architecture 
   2) The Architect's view -- Conceptual Security Architecture
