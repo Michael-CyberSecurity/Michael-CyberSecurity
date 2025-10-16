@@ -9,15 +9,15 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   4) Secure System Development & Acquisition: Enforced secure development including security coding, secure development environment, security of version control, security testing and procurement processes by integrating OWASP, and ISO 27002 guidelines.
   5) Additionally, implemented ISO 27002 to support security objectives in key areas, including: Organization of Information Security, Asset Management, Supplier Relationships, Human Resource Security, Operations Security, and Access Control.
 
-- 🌱 Designed and Built Business-Driven Cyber Security Architecture
-- 1. Referenced SABSA and TOGAF enterprise architecture frameworks to design and build five security architecture layers from different perspectives:
+- 🌱 Designed and Built Business-Driven Cyber Security Architecture (see the three key areas below)
+- 1- Referenced SABSA and TOGAF enterprise architecture frameworks to design and build five security architecture layers from different perspectives:
   1) The Business's  view --  Contextual Security Architecture 
   2) The Architect's view -- Conceptual Security Architecture
   3) The Designer's  view -- Logical Security Architecture (high-level)
   4) The builder's   view --  Physical & Component Security Architecture (lower-level)
   5) The FacilityManager's view -- Operational Security Architecture
-- 2 Established strong connections between the five layers to help business owners clearly understand enterprise risks and align security strategy with business decisions.
-- 3 Physical & Component Security Architecture (lower-level) and Operation Security Architecture – implemented measures include:
+- 2- Established strong connections between the five layers to help business owners clearly understand enterprise risks and align security strategy with business decisions.
+- 3- Physical & Component Security Architecture (lower-level) and Operation Security Architecture – implemented measures include:
   1) Data Security: Implemented the 5A Methodology and developed three key security architectures: Product Security Architecture, Security Technology Architecture, and Audit Architecture. Applied NIST Data Security Framework and PCI DSS standards for comprehensive data protection.
   2) Secure engineering & Application Security: Led secure engineering initiatives by embedding security into the software development lifecycle through threat modeling, secure coding, and security testing. Drove the adoption of OWASP Secure Coding Practices, focusing on input validation, output encoding, authentication and password management, session management, error handling, and database security. Strengthened application security posture by implementing configurations aligned with CIS Benchmarks.
   3) Cryptography: Based on CISSP standards and Cryptography and Network Security: Principles and Practice (Pearson), strengthened the cryptosystem by optimizing algorithms, ensuring key secrecy, selecting appropriate key lengths, and using initialization vectors to achieve ideal confusion and diffusion. Analysed cipher suites and selected suitable options for enterprise applications.
