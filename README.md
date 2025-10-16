@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently seeking jobs related to Cyber Security/Information Security/IT Risk in New Zealand. GitHub readme extends my resume by showcasing my InfoSec GRC experience, Cyber Security background, IT Governance experience, Other IT skills, as well as my hobbies and personality.
+I’m currently seeking jobs related to Cyber Security/Information Security/IT Risk in New Zealand. GitHub readme extends my resume by showcasing my InfoSec GRC experience, Cyber Security background, SOC, Penetration Testing, IT Governance experience, Other IT skills, as well as my hobbies and personality.
 
 - 👯 InfoSec GRC--Designed and implemented security systems from the ground up, aligning with ISO 27001 requirements and objectives while integrating industry best practices to achieve its security goals, including:
   1) Business Continuity & Disaster Recovery (BCP): Ensured resilience by integrating NIST SP 800-34 Rev.1, ISO/IEC 27031, and ISO/TS 22317 contingency planning guidelines.
