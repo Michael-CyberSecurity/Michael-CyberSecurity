@@ -40,7 +40,15 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   3) Wireless security — assess WPA2, WPA and WEP deployments and detect rogue/fake access points.
   4) Network segmentation & exposure testing — evaluate segmentation controls and identify enterprise sensitive-data exposure to the public Internet.
   5) Conduct phishing simulations with malware attachment testing to evaluate user awareness
-      
+     
+- 📫 Digital Forensic
+  1) Conducted forensic imaging and evidence preservation using write blockers and cryptographic hashing (SHA-256, MD5).
+  2) Created and verified forensic copies with dd, ensuring chain of custody and data integrity.
+  3) Mounted forensic images in read-only mode for analysis and data recovery.
+  4) Recovered deleted and hidden files via FAT/MFT and slack space analysis using Autopsy tool.
+  5) Applied password recovery and steganography detection techniques using tools John and Identify
+  6) Documented forensic processes, maintained chain of custody and job sheets, and produced court-ready technical reports.
+
 - 👯 IT Governance
   1)	Assisted the Chief Information Officer (CIO) in planning activities, including the annual work plan of the Information Management Center, performance evaluations, and the development of IT governance documentation.
   2)	Acted as PMO role in designing and building IT project management systems aligned with PMP standards. Managed projects through all six stages: preparation, initiation, planning, implementation, go-live preparation and closure;
