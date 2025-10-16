@@ -10,7 +10,7 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   5) Additionally, implemented ISO 27002 to support security objectives in key areas, including: Organization of Information Security, Asset Management, Supplier Relationships, Human Resource Security, Operations Security, and Access Control.
 
 - 🌱 Designed and Built Business-Driven Cyber Security Architecture (see the three key points below)
-- 1- Referenced SABSA and TOGAF enterprise architecture frameworks to design and build five security architecture layers from different perspectives:
+- 1- Referenced SABSA enterprise architecture framework to design and build five security architecture layers from different perspectives:
   1) The Business's  view --  Contextual Security Architecture 
   2) The Architect's view -- Conceptual Security Architecture
   3) The Designer's  view -- Logical Security Architecture (high-level)
@@ -41,6 +41,14 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   4) Network segmentation & exposure testing — evaluate segmentation controls and identify enterprise sensitive-data exposure to the public Internet.
   5) Conduct phishing simulations with malware attachment testing to evaluate user awareness
      
+🌱 Designed and Built Business-Driven Data Security Architecture
+1- Contextual Security Architecture (Business View – SABSA EA): At Baoneng Motor, a key stakeholder requirement stated that “enterprise sensitive information must not be used, disclosed, altered, or deleted without authorization.” As data security was the primary concern, a dedicated Data Security Architecture was developed independently from the overall Cyber Security Architecture, referencing the TOGAF framework.
+2- Data Security Architecture consists of three sub-domain architectures:
+   1) Domain 1 Product Security Architecture: Implements the 5A principles (Authentication, Authorization, Accounting, Account Management, and Asset Protection through encryption) and key lifecycle management to safeguard product-related data, while integrating DevSecOps practices to ensure continuous security across the development and deployment lifecycle.
+   2) Domain 2 Security Technology System Architecture: Covers four layers — Application & Data, Equipment & Host, Network & Communication, and Physical & Environmental — applying the 5A principles across each layer to strengthen data protection.
+   3) Domain 3 Audit Architecture: Utilizes DLP and SIEM (Splunk) use cases with multiple indicators for real-time monitoring of sensitive data and detection of potential insider or external threats. Suspicious employee activities trigger deeper investigations following 📫 Digital Forensic Procedures and technique (outlined in the next section) , with the capability to produce court-ready technical reports when required.
+
+
 - 📫 Digital Forensic
   1) Conducted forensic imaging and evidence preservation using write blockers and cryptographic hashing (SHA-256, MD5).
   2) Created and verified forensic copies with dd, ensuring chain of custody and data integrity.
