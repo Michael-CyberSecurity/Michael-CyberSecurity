@@ -8,6 +8,8 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   3) Incident Management: Strengthened security incident response by aligning NIST SP 800-61 Rev.3, and NIST CSF 2.0 recommendations.
   4) Secure System Development & Acquisition: Enforced secure development including security coding, secure development environment, security of version control, security testing and procurement processes by integrating OWASP, and ISO 27002 guidelines.
   5) Additionally, implemented ISO 27002 to support security objectives in key areas, including: Organization of Information Security, Asset Management, Supplier Relationships, Human Resource Security, Operations Security, and Access Control.
+  6) The above Information Security Management System (ISMS) is referenced by the Cyber Security Architecture(see subsequent section). The cyber Architecture is not only based on the ISMS but also integrates broader security elements and business perspectives。Within the Cyber Security Architecture, policies are referenced by the Conceptual Security Architecture, the Logical Security Architecture (high level) applies standards and control objectives, and the Physical and Component Security Architectures (lower level) implement the corresponding procedures.
+
 
 - 🌱 Designed and Built Business-Driven Cyber Security Architecture (see the three key points below)
 - 1- Referenced SABSA enterprise architecture framework to design and build five security architecture layers from different perspectives:
