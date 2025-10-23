@@ -64,14 +64,14 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
 - 👯 IT Governance
   1)	Assisted the Chief Information Officer (CIO) in planning activities, including the annual work plan of the Information Management Center, performance evaluations, and the development of IT governance documentation.
   2)	Acted as PMO role in designing and building IT project management systems aligned with PMP standards. Managed projects through all six stages: preparation, initiation, planning, implementation, go-live preparation and closure;
-  3)	Acted as PMO role in designing and monitoring key project deliverables for each project stages including during the first stage (Project Preparation), focused on the Project Proposal and Business Case;in the second stage (Project Initiation), handled the Project Charter, Statement of Work (SOW), Contractor Management, Technical/Requirement Specification Document, Supplier Tendering, and Project Kickoff Meeting; the third stage (Project Planning) included the Business Blueprint, Work Breakdown Structure (WBS), Requirement and Prototype Confirmation, Architecture Validation, and Detailed Design and Testing Solution Analysis; the fourth stage (Project Implementation) involved the setup of development and testing environments, system development, unit testing, integration testing, and system testing; the fifth stage (Go-Live Preparation) covered User Acceptance Testing (UAT), system cutover plan, knowledge transfer, handover to the operations team, and operations readiness; and the final stage (Project Closure) included the official system go-live, final handover, project retrospective, and resource release.
-  5)	Assisted in project permission management, risk assessment, and progress monitoring using the ZenTao tool, ensuring alignment with organizational objectives. 
+  3)	Acted in a PMO role, designing and monitoring key project deliverables across all project stages: Project Preparation, Project Initiation, Project Planning, Project Implementation, Go-Live Preparation, and Project Closure.
+  4)	Assisted in project permission management, risk assessment, and progress monitoring using the ZenTao tool, ensuring alignment with organizational objectives. 
 
 - 📫 IT Infrastructure and Web Application Architecture
   1) Server: Experienced in maintaining and hardening Windows, Linux, AIX, and macOS servers
-  2) Active Director: Skilled in designing and troubleshooting complex AD environments (multi-domain/site), Group Policy, RBAC, domain trusts, and IAM integration.
-  3) Cloud: Experienced in deploying and troubleshooting private clouds using OpenStack. Hands-on with public Clouds such as AWS and Alibaba Cloud, including instance management, hardening, and security control implementation.
-  4) Docker: Familiar with Docker networking and commands; experienced in Dockerfile creation and container deployment.
+  2) Cloud: Experienced with AWS, Alibaba Cloud, and OpenStack for infrastructure deployment, automation, security hardening and control implementation, as well as security incident analysis. Hands-on experience with AWS services including ECS, EKS, EC2, S3, and Lambda, and with cloud security services such as IAM, KMS, CloudTrail, CloudWatch, Config, Security Hub, WAF, Inspector, and GuardDuty.
+  3) Active Director: Skilled in designing and troubleshooting complex AD environments (multi-domain/site), Group Policy, RBAC, domain trusts, and IAM integration.
+  4) Docker: Experienced in Dockerfile creation and container orchestration using Kubernetes and AWS EKS.
   5) Virtualization: Proficient in Hyper-V clustering; experienced with KVM and VMware vSphere maintenance.
   6) Storage: Experienced with EMC and IBM San storage arrays, as well as the distributed storage system MogileFS.
   7) Database: Basic DBA skills—MySQL backup, replication, transaction handling, caching (Memcached/Redis), and HA (MHA, Redis Sentinel).
