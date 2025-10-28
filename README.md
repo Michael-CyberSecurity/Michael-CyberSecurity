@@ -1,4 +1,4 @@
-<img width="382" height="44" alt="image" src="https://github.com/user-attachments/assets/bee5c71f-5bab-40d1-bdcb-7cdb530a7378" />## Hi there 👋
+## Hi there 👋
 
 I’m currently seeking jobs related to Cyber Security/Information Security/IT Risk in New Zealand. GitHub readme extends my resume by showcasing my InfoSec GRC experience, Cyber Security background, SOC, Penetration Testing, IT Governance experience, Other IT skills, as well as my hobbies and personality.
 
