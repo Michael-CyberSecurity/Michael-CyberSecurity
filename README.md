@@ -67,6 +67,18 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   3)	Acted in a PMO role, designing and monitoring key project deliverables across all project stages: Project Preparation, Project Initiation, Project Planning, Project Implementation, Go-Live Preparation, and Project Closure.
   4)	Assisted in project permission management, risk assessment, and progress monitoring using the ZenTao tool, ensuring alignment with organizational objectives. 
 
+- ⚡ AI
+- 1- Since 2018, focused on AI-driven cybersecurity, completing training and earning three certifications that year. Palo Alto Networks and FireEye leverage Machine Learning (ML) and, in some cases, Deep Learning (DL) for unstructured data analysis, such as detecting malicious patterns in images and videos, while Splunk primarily applies ML for anomaly detection and behavioral analytics.
+- 2- During the Master of Cyber Security studies, continued learning Machine Learning (ML) and Deep Learning (DL), with a focus on Neural Networks. Completed AWS SageMaker training covering the full model lifecycle — including dataset preparation, model training, evaluation and tuning, deployment, monitoring, and updating.
+- 3- Based on the above AI developments, future cybersecurity efforts will focus on new risks posed by AI, including:
+1) Data leakage and prompt injection – when employees input sensitive data into AI tools.
+2) Model poisoning or manipulation – attacks that alter or exploit AI model behavior.
+3) Access control and identity management for AI agents and APIs.
+4) AI governance – ensuring compliance, transparency, and accountability in AI usage.
+5) Secure integration – ensuring AI systems connecting to internal apps (via MCP or Agents) follow security baselines.
+
+Detection and response – using AI safely for security automation and threat detection.
+
 - 📫 IT Infrastructure and Web Application Architecture
   1) Server: Experienced in maintaining and hardening Windows, Linux, AIX, and macOS servers
   2) Cloud: Experienced with AWS, Microsoft Office 365, Microsoft Dynamic 365, Alibaba, and OpenStack for infrastructure deployment, automation, security hardening and control implementation, as well as security incident analysis. Proficiency in AWS services including ECS, EKS, EC2, S3, and Lambda, and with cloud security services such as IAM, KMS, CloudTrail, CloudWatch, Config, Security Hub, WAF, Inspector, and GuardDuty.
