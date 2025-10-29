@@ -69,7 +69,7 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
 
 - ⚡ AI
 - 1- Since 2018, focused on AI-driven cybersecurity, completing training and earning three certifications that year. Palo Alto Networks and FireEye leverage Machine Learning (ML) and, in some cases, Deep Learning (DL) for unstructured data analysis, such as detecting malicious patterns in images and videos, while Splunk primarily applies ML for anomaly detection and behavioral analytics.
-- 2- During the Master of Cyber Security studies, continued learning Machine Learning (ML) and Deep Learning (DL), with a focus on Neural Networks. Completed AWS SageMaker training covering the full model lifecycle — including dataset preparation, model training, evaluation and tuning, deployment, monitoring, and updating.
+- 2- During the Master of Cyber Security studies, continued learning Machine Learning (ML) and Deep Learning (DL), with a focus on Neural Networks. Completed AWS SageMaker training covering the full model lifecycle — including dataset preparation, model training, model evaluation and tuning, model deployment, model monitoring, and model updating.
 - 3- Based on the above AI developments, future cybersecurity efforts will focus on new risks posed by AI, including:
   1) Data leakage and prompt injection – when employees input sensitive data into AI tools.
   2) Model poisoning or manipulation – attacks that alter or exploit AI model behavior.
