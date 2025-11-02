@@ -69,14 +69,23 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
 
 - ⚡ AI
 - 1- Since 2018, focused on AI-driven cybersecurity, completing training and earning three certifications that year. Palo Alto Networks and FireEye leverage Machine Learning (ML) and, in some cases, Deep Learning (DL) for unstructured data analysis, such as detecting malicious patterns in images and videos, while Splunk primarily applies ML for anomaly detection and behavioral analytics.
-- 2- During the Master of Cyber Security studies, continued learning Machine Learning (ML) and Deep Learning (DL), with a focus on Neural Networks. Completed AWS SageMaker training covering the full model lifecycle — including dataset preparation, model training, model evaluation and tuning, model deployment, model monitoring, and model updating.
-- 3- Based on the above AI developments, future cybersecurity efforts will focus on new risks posed by AI, including:
-  1) Data leakage and prompt injection – when employees input sensitive data into AI tools.
-  2) Model poisoning or manipulation – attacks that alter or exploit AI model behavior.
-  3) Access control and identity management for AI agents and APIs.
-  4) AI governance – ensuring compliance, transparency, and accountability in AI usage.
-  5) Secure integration – ensuring AI systems connecting to internal apps (via MCP or Agents) follow security baselines.
-  6) Detection and response – using AI safely for security automation and threat detection.
+- 2- During the Master of Cyber Security studies, continued learning Machine Learning (ML) and Deep Learning (DL), with a focus on Neural Networks. Completed AI Risk and AWS SageMaker training.
+- 3- Based on the above AI developments, AI Risk--Four Key Domains:
+  1) Data Risk – CIA, Privacy, Data Poisoning
+  2) Model Risk – Theft, Reverse Engineering, Unauthorized Manipulation, Adversarial Attacks, Model Interpretability, Supply Chain Attacks
+  3) Operational Risk – Drift or Decay, Sustainability Issues, Lack of Accountability
+  4) Ethical & Legal Risk
+- 4- Intentional Failure Modes / Attacks
+  1) Adversarial Attack
+  2) Poisoning Attack
+  3) Reprogramming neural nets--Adapting a pre-trained neural network to a new task to behave maliciously
+  4) Physical Domain
+  5) Model Inversion--reverse-engineer the data it was trained
+  6) System Manipulation: Attacker train system abnormal to normal behavior
+- 5- For Intentional Failure Modes / Attacks, Mitigation plans:
+  1) Dataset Hygiene
+  2) Adversarial Training
+  3) Access Control to APIs
 
 - 📫 IT Infrastructure and Web Application Architecture
   1) Server: Experienced in maintaining and hardening Windows, Linux, AIX, and macOS servers
