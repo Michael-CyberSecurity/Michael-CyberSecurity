@@ -82,7 +82,7 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   4) Physical Domain
   5) Model Inversion--reverse-engineer the data it was trained
   6) System Manipulation: Attacker train system abnormal to normal behavior
-- 5- For Intentional Failure Modes / Attacks, Mitigation plans:
+- 5- Mitigation Plans for Intentional Failure Modes / Attacks:
   1) Dataset Hygiene
   2) Adversarial Training
   3) Access Control to APIs
