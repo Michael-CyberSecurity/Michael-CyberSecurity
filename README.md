@@ -70,11 +70,13 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
 - ⚡ AI
 - 1- Since 2018, focused on AI-driven cybersecurity, completing training and earning three certifications that year. Palo Alto Networks and FireEye leverage Machine Learning (ML) and, in some cases, Deep Learning (DL) for unstructured data analysis, such as detecting malicious patterns in images and videos, while Splunk primarily applies ML for anomaly detection and behavioral analytics.
 - 2- During the Master of Cyber Security studies, continued learning Machine Learning (ML) and Deep Learning (DL), with a focus on Neural Networks. Completed AI Risk and AWS SageMaker training.
+- 
 - 3- Based on the above AI developments, AI Risk--Four Key Domains:
   1) Data Risk – CIA, Privacy, Data Poisoning
   2) Model Risk – Theft, Reverse Engineering, Unauthorized Manipulation, Adversarial Attacks, Model Interpretability, Supply Chain Attacks
   3) Operational Risk – Drift or Decay, Sustainability Issues, Lack of Accountability
   4) Ethical & Legal Risk
+     
 - 4- Intentional Failure Modes / Attacks
   1) Adversarial Attack
   2) Poisoning Attack
@@ -86,6 +88,22 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   1) Dataset Hygiene
   2) Adversarial Training
   3) Access Control to APIs
+     
+- 6- Unintentional Failure Modes/Intrinsic Design Flaws
+  1) Reward Hacking-Creating messy and clean up, Reinforcement Learning(RL) cheat the reward function without doing the intended task
+  2) Side Effect- Unintended negative consequence that occur when the agent complete the task correctly
+  3) Distributional shift-It occurs when the real-world data the model sees later is different from the training data.
+  4) Incomplete testing
+  5) Overfitting and underfitting
+  6) Data Bias 
+- 7- Mitigation Plans for Intentional Failure Modes / Attacks:
+  1) Design reward functions to align with the true goal
+  2) Adding penalties for undesired behaviors, add side-effect penalties
+  3) Implement periodic retraining with new data
+  4) Split data into training, validation, and test sets; Use regularization techniques (L1/L2, dropout) to prevent overfitting.
+  5) Increase training data or improve feature engineering to prevent underfitting.
+  6) Apply bias detection and fairness metrics.
+
 
 - 📫 IT Infrastructure and Web Application Architecture
   1) Server: Experienced in maintaining and hardening Windows, Linux, AIX, and macOS servers
