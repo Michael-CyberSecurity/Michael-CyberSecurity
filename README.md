@@ -65,12 +65,12 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   1)	Assisted the Chief Information Officer (CIO) in planning activities, including the annual work plan of the Information Management Center, performance evaluations, and the development of IT governance documentation.
   2)	Acted as PMO role in designing and building IT project management systems aligned with PMP standards. Managed projects through all six stages: preparation, initiation, planning, implementation, go-live preparation and closure;
   3)	Acted in a PMO role, designing and monitoring key project deliverables across all project stages: Project Preparation, Project Initiation, Project Planning, Project Implementation, Go-Live Preparation, and Project Closure.
-  4)	Assisted in project permission management, risk assessment, and progress monitoring using the ZenTao tool, ensuring alignment with organizational objectives. 
-
+  4)	Assisted in project permission management, risk assessment, and progress monitoring using the ZenTao tool, ensuring alignment with organizational objectives.
+     
 - ⚡ AI
 - 1- Since 2018, focused on AI-driven cybersecurity, completing training and earning three certifications that year. Palo Alto Networks and FireEye leverage Machine Learning (ML) and, in some cases, Deep Learning (DL) for unstructured data analysis, such as detecting malicious patterns in images and videos, while Splunk primarily applies ML for anomaly detection and behavioral analytics.
 - 2- During the Master of Cyber Security studies, continued learning Machine Learning (ML) and Deep Learning (DL), with a focus on Neural Networks. Completed AI Risk and AWS SageMaker training.
-- 
+
 - 3- Based on the above AI developments, AI Risk--Four Key Domains:
   1) Data Risk – CIA, Privacy, Data Poisoning
   2) Model Risk – Theft, Reverse Engineering, Unauthorized Manipulation, Adversarial Attacks, Model Interpretability, Supply Chain Attacks
