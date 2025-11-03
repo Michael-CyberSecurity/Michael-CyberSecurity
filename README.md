@@ -96,7 +96,7 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   4) Incomplete testing
   5) Overfitting and underfitting
   6) Data Bias 
-- 7- Mitigation Plans for Intentional Failure Modes / Attacks:
+- 7- Mitigation Plans for Unintentional Failure Modes/Intrinsic Design Flaws:
   1) Design reward functions to align with the true goal
   2) Adding penalties for undesired behaviors, add side-effect penalties
   3) Implement periodic retraining with new data
