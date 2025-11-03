@@ -85,13 +85,13 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   5) Model Inversion--reverse-engineer the data it was trained
   6) Modelling Stealing -- model extraction/reconstruction
   7) System Manipulation: Attacker train system abnormal to normal behavior
-  8) AI underlying system attack
+  8) AI underlying system attack--OS Vulnerabilities, Hardware Failure, Buffer Overflow
      
 - 5- Mitigation Plans for Intentional Failure Modes / Attacks:
   1) Dataset Hygiene
   2) Adversarial Training
   3) Access Control to APIs
-  4) Threat Modelling, Secure Engineering, Vulnerability Management, Penetration Testing
+  4) Threat Modelling, Secure Engineering, Vulnerability Management, Penetration Testing, Hardware Maintenance
 
 - 6- Unintentional Failure Modes/Intrinsic Design Flaws
   1) Reward Hacking-Creating messy and clean up, Reinforcement Learning(RL) cheat the reward function without doing the intended task
