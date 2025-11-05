@@ -1,6 +1,48 @@
 ## Hi there 👋
 
-I’m currently seeking jobs related to Cyber Security/Information Security/IT Risk in New Zealand. GitHub readme extends my resume by showcasing my InfoSec GRC experience, Cyber Security background, SOC, Penetration Testing, IT Governance experience, Other IT skills, as well as my hobbies and personality.
+I’m currently seeking jobs related to Cyber Security/Information Security/IT Risk in New Zealand. GitHub readme extends my resume by showcasing my AI Risk and Mitigation, InfoSec GRC experience, Cyber Security background, SOC, Penetration Testing, IT Governance experience, Other IT skills, as well as my hobbies and personality.
+
+- ⚡ AI Risk and Mitigation
+- 1- Since 2018, focused on AI-driven cybersecurity, completing training and earning three certifications that year. Palo Alto Networks and FireEye leverage Machine Learning (ML) and, in some cases, Deep Learning (DL) for unstructured data analysis, such as detecting malicious patterns in images and videos, while Splunk primarily applies ML for anomaly detection and behavioral analytics.
+- 2- During the Master of Cyber Security studies, continued learning Machine Learning (ML) and Deep Learning (DL), with a focus on Neural Networks. Completed AI Risk&Mitigation and AWS SageMaker training.
+
+- 3- Based on the above AI developments, AI Risk--Four Key Domains:
+  1) Data Risk – CIA, Privacy, Data Poisoning
+  2) Model Risk – Theft, Reverse Engineering, Unauthorized Manipulation, Adversarial Attacks, Model Interpretability, Supply Chain Attacks
+  3) Operational Risk – Drift or Decay, Sustainability Issues, Lack of Accountability
+  4) Ethical & Legal Risk
+     
+- 4- Intentional Failure Modes / Attacks
+  1) Adversarial Attack
+  2) Poisoning Attack
+  3) Reprogramming neural nets--Adapting a pre-trained neural network to a new task to behave maliciously
+  4) Physical Domain
+  5) Model Inversion--reverse-engineer the data it was trained
+  6) Modelling Stealing -- model extraction/reconstruction
+  7) System Manipulation: Attacker train system abnormal to normal behavior
+  8) AI underlying system attack--OS Vulnerabilities, Hardware Failure, Buffer Overflow
+     
+- 5- Mitigation Plans for Intentional Failure Modes / Attacks:
+  1) Dataset Hygiene
+  2) Adversarial Training
+  3) Access Control to APIs
+  4) Threat Modelling, Secure Engineering, Vulnerability Management, Penetration Testing, Hardware Maintenance
+
+- 6- Unintentional Failure Modes/Intrinsic Design Flaws
+  1) Reward Hacking-Creating messy and clean up, Reinforcement Learning(RL) cheat the reward function without doing the intended task
+  2) Side Effect- Unintended negative consequence that occur when the agent complete the task correctly
+  3) Distributional shift-It occurs when the real-world data the model sees later is different from the training data.
+  4) Incomplete testing
+  5) Overfitting and underfitting
+  6) Data Bias
+     
+- 7- Mitigation Plans for Unintentional Failure Modes/Intrinsic Design Flaws:
+  1) Design reward functions to align with the true goal
+  2) Adding penalties for undesired behaviors, add side-effect penalties
+  3) Implement periodic retraining with new data
+  4) Split data into training, validation, and test sets; Use regularization techniques (L1/L2, dropout) to prevent overfitting.
+  5) Increase training data or improve feature engineering to prevent underfitting.
+  6) Apply bias detection and fairness metrics.
 
 - 👯 InfoSec GRC--Designed and implemented security systems from the ground up, aligning with ISO 27001 requirements and objectives while integrating industry best practices to achieve its security goals, including:
   1) Led the development of Information Security Governance bodies (Committee, leading group, representatives, and working group). Served as a key liaison to ensure effective collaboration with department leaders and stakeholders, successfully organizing and coordinating governance activities.
@@ -67,46 +109,6 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
   3)	Acted in a PMO role, designing and monitoring key project deliverables across all project stages: Project Preparation, Project Initiation, Project Planning, Project Implementation, Go-Live Preparation, and Project Closure.
   4)	Assisted in project permission management, risk assessment, and progress monitoring using the ZenTao tool, ensuring alignment with organizational objectives.
      
-- ⚡ AI
-- 1- Since 2018, focused on AI-driven cybersecurity, completing training and earning three certifications that year. Palo Alto Networks and FireEye leverage Machine Learning (ML) and, in some cases, Deep Learning (DL) for unstructured data analysis, such as detecting malicious patterns in images and videos, while Splunk primarily applies ML for anomaly detection and behavioral analytics.
-- 2- During the Master of Cyber Security studies, continued learning Machine Learning (ML) and Deep Learning (DL), with a focus on Neural Networks. Completed AI Risk and AWS SageMaker training.
-
-- 3- Based on the above AI developments, AI Risk--Four Key Domains:
-  1) Data Risk – CIA, Privacy, Data Poisoning
-  2) Model Risk – Theft, Reverse Engineering, Unauthorized Manipulation, Adversarial Attacks, Model Interpretability, Supply Chain Attacks
-  3) Operational Risk – Drift or Decay, Sustainability Issues, Lack of Accountability
-  4) Ethical & Legal Risk
-     
-- 4- Intentional Failure Modes / Attacks
-  1) Adversarial Attack
-  2) Poisoning Attack
-  3) Reprogramming neural nets--Adapting a pre-trained neural network to a new task to behave maliciously
-  4) Physical Domain
-  5) Model Inversion--reverse-engineer the data it was trained
-  6) Modelling Stealing -- model extraction/reconstruction
-  7) System Manipulation: Attacker train system abnormal to normal behavior
-  8) AI underlying system attack--OS Vulnerabilities, Hardware Failure, Buffer Overflow
-     
-- 5- Mitigation Plans for Intentional Failure Modes / Attacks:
-  1) Dataset Hygiene
-  2) Adversarial Training
-  3) Access Control to APIs
-  4) Threat Modelling, Secure Engineering, Vulnerability Management, Penetration Testing, Hardware Maintenance
-
-- 6- Unintentional Failure Modes/Intrinsic Design Flaws
-  1) Reward Hacking-Creating messy and clean up, Reinforcement Learning(RL) cheat the reward function without doing the intended task
-  2) Side Effect- Unintended negative consequence that occur when the agent complete the task correctly
-  3) Distributional shift-It occurs when the real-world data the model sees later is different from the training data.
-  4) Incomplete testing
-  5) Overfitting and underfitting
-  6) Data Bias 
-- 7- Mitigation Plans for Unintentional Failure Modes/Intrinsic Design Flaws:
-  1) Design reward functions to align with the true goal
-  2) Adding penalties for undesired behaviors, add side-effect penalties
-  3) Implement periodic retraining with new data
-  4) Split data into training, validation, and test sets; Use regularization techniques (L1/L2, dropout) to prevent overfitting.
-  5) Increase training data or improve feature engineering to prevent underfitting.
-  6) Apply bias detection and fairness metrics.
 
 
 - 📫 IT Infrastructure and Web Application Architecture
