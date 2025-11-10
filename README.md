@@ -73,8 +73,8 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
     
 - ⚡ Internal SOC (Security Operation Center) 
   1) Designed and implemented an enterprise SOC architecture integrating SIEM (Splunk), Logstash, and Salesforce (later migrated to ServiceNow) to centralize incident tracking and workflow automation.
-  2) Ingested and normalized security logs from multiple data sources including Palo Alto firewalls, McAfee endpoint security, Windows Event Logs, and WatchGuard Email Security (spam, phishing, and malware attachment).
-  3) Developed and maintained use cases to generate automated security alerts and improve threat detection.
+  2) Integrate log sources from on-prem systems (Palo Alto firewalls, servers, endpoints, email, network devices) and cloud AWS into centralized SIEM (Splunk).
+  3) Developed and maintained use cases to generate automated security alerts and improve threat detection including Data Exfiltration/Large Outbound Transfers, Malware Execution, Ransomware/Encryption Activity, Ransomware/Encryption Activity, Suspicious PowerShell/Script Execution, Brute-force Login Attempts, Unusual Login Locations, Unauthorized Privilege Escalation/ Admin account creation, Unusual Network Connections， Phishing/Compromised Email Activity, Policy Violations/Compliance Breach, Unauthorized Security Group Change, KMS/Encryption Key Abuse, Lambda/Unusual Invocation, Lambda/Unusual Invocation.
   4) Conducted static and dynamic malware analysis in sandbox environments to identify malicious behaviors and enhance detection rule accuracy.
   5) Performed incident analysis, and threat validation, continuously fine-tuning detection rules to minimize false positives and false negatives.
   6) Provided analytical feedback to vendors (e.g., Palo Alto) to improve security product detection accuracy and contribute to the broader cybersecurity community.
