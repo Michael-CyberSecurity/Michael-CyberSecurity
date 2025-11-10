@@ -4,7 +4,7 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
 
 - ⚡ AI Risk and Mitigation
 - 1- Since 2018, focused on AI-driven cybersecurity, completing training and earning three certifications that year. Palo Alto Networks and FireEye leverage Machine Learning (ML) and, in some cases, Deep Learning (DL) for unstructured data analysis, such as detecting malicious patterns in images and videos, while Splunk primarily applies ML for anomaly detection and behavioral analytics.
-- 2- During the Master of Cyber Security studies, continued learning Machine Learning (ML) and Deep Learning (DL), with a focus on Neural Networks. Completed AI Risk&Mitigation and AWS SageMaker training.
+- 2- During the Master of Cyber Security studies, continued learning Machine Learning (ML) and Deep Learning (DL), with a focus on Neural Networks. Completed AI Risk&Mitigation and AWS SageMaker training. Gaining knowledge in GenAI (Generative AI), LLM (Large Language Models), MCP (Model Context Protocol), and AI Agent (Autonomous AI Systems).
 
 - 3- Based on the above AI developments, AI Risk--Four Key Domains:
   1) Data Risk – CIA, Privacy, Data Poisoning
