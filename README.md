@@ -113,7 +113,7 @@ I’m currently seeking jobs related to Cyber Security/Information Security/IT R
 
 - 📫 IT Infrastructure and Web Application Architecture
   1) Server: Experienced in maintaining and hardening Windows, Linux, AIX, and macOS servers
-  2) Cloud: Experienced with AWS, Microsoft Office 365, Microsoft Dynamic 365, Alibaba, and OpenStack for infrastructure deployment, automation, security hardening and control implementation, as well as security incident analysis. Proficiency in AWS services including ECS, EKS, EC2, S3, and Lambda, and with cloud security services such as IAM, KMS, CloudTrail, CloudWatch, Config, Security Hub, WAF, Inspector, and GuardDuty.
+  2) Cloud: Experienced with AWS, Microsoft Office 365, and OpenStack for infrastructure deployment, automation, security hardening and control implementation, as well as security incident analysis. Proficiency in AWS services including ECS, EKS, EC2, S3, and Lambda, and with cloud security services such as IAM, KMS, CloudTrail, CloudWatch, Config, Security Hub, WAF, Inspector, and GuardDuty.
   3) Active Director: Skilled in designing and troubleshooting complex AD environments (multi-domain/site), Group Policy, RBAC, domain trusts, and IAM integration.
   4) Docker: Experienced in Dockerfile creation and container orchestration using Kubernetes and AWS EKS.
   5) Virtualization: Proficient in Hyper-V clustering; experienced with KVM and VMware vSphere maintenance.
